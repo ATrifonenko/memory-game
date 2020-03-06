@@ -1,0 +1,20 @@
+.rating {
+  h2 {
+    font-size: 28px;
+    text-align: center;
+    margin: 12px 0;
+  }
+}
+
+.rating-table {
+  width: 100%;
+  text-align: center;
+
+  td {
+    padding: 5px 0;
+  }
+
+  .name {
+    max-width: 100px;
+  }
+}

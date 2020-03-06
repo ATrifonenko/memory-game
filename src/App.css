@@ -1,0 +1,12 @@
+.app {
+  height: 100vh;
+}
+
+.header {
+  height: 10vh;
+  font-size: calc(30px + 2vmin);
+  line-height: 10vh;
+  color: black;
+  text-align: center;
+  font-weight: 700;
+}

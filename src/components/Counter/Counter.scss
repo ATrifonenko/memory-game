@@ -1,0 +1,16 @@
+.counters {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  padding-top: 23px;
+
+  h2 {
+    font-size: 28px;
+    margin: 5px 0;
+  }
+
+  span {
+    font-size: 26px;
+    color: darkred;
+  }
+}

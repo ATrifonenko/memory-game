@@ -1,0 +1,25 @@
+.side-panel {
+  width: 350px;
+  min-width: 350px;
+  border: 1px solid;
+  align-self: flex-start;
+}
+
+.input-name {
+  width: calc(100% - 30px);
+  padding: 10px;
+  margin: 15px;
+  font-size: 18px;
+  text-align: center;
+}
+
+.new-game {
+  width: calc(100% - 30px);
+  padding: 10px;
+  margin: 0 15px;
+  font-size: 18px;
+  background-color: deepskyblue;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
